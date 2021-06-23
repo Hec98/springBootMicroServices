@@ -1,3 +1,10 @@
 INSERT INTO student (nombre, promedio) VALUES ('Juan', 88);
-INSERT INTO student (nombre, promedio) VALUES ('Roberto', 98);
-INSERT INTO student (nombre, promedio) VALUES ('Aldo', 80);
+INSERT INTO student (nombre, promedio) VALUES ('Ruperto', 98);
+INSERT INTO student (nombre, promedio) VALUES ('Andres', 50);
+INSERT INTO student (nombre, promedio) VALUES ('Carlos', 84);
+INSERT INTO student (nombre, promedio) VALUES ('Uriel', 21);
+INSERT INTO student (nombre, promedio) VALUES ('Héctor', 57);
+INSERT INTO student (nombre, promedio) VALUES ('Miguel', 60);
+INSERT INTO student (nombre, promedio) VALUES ('Pedro', 40);
+INSERT INTO student (nombre, promedio) VALUES ('Carmen', 30);
+INSERT INTO student (nombre, promedio) VALUES ('Pedro', 20);
